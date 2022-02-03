@@ -114,6 +114,5 @@ add_btn = tk.Button(window, text="Add", height=2, width=6, command=add_item).pla
 del_btn = tk.Button(window, text="Delete", height=2, width=6, command=del_item).place(x=80, y=125)
 plot_btn = tk.Button(window, text="Plot", height=2, width=6, command=plot).place(x=150, y=125)
 
-name = tk.Label(window, text='By: Amirhosein Zaboli').place(x=40, y=185)
 
 window.mainloop()
