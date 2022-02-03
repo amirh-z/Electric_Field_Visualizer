@@ -1,4 +1,4 @@
-# Electric_Field_Visualizer
+# Electric Field Visualizer
 This program is intended as a project for EM course being used to give students a better understanding of what they're being taught.
 
 ## Prerequisite
