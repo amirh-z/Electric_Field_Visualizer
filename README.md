@@ -3,6 +3,6 @@ This program is intended as a project for EM course being used to give students 
 
 ## Prerequisite
 In order to run the code, make sure you have followings installed on your device:
-* numpuy
+* numpy
 * matplotlib
 * Tkinter
