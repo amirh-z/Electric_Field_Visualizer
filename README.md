@@ -11,5 +11,5 @@ In order to run the code, make sure you have followings installed on your device
 A PDF file in Persian is provided. An English description will soon be added.
 
 ## Screenshots
-<img src="Pictures/Pic1.png" alt="Menu" width="400" height="500"/>
-<img src="Pictures/Pic2.png" alt="Menu" width="400" height="500"/>
+<img src="Pictures/Pic1.png" alt="Menu" width="600" height="300"/>
+<img src="Pictures/Pic2.png" alt="Menu" width="600" height="300"/>
