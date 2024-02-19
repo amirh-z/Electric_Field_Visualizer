@@ -6,3 +6,10 @@ In order to run the code, make sure you have followings installed on your device
 * numpy
 * matplotlib
 * Tkinter
+
+## How does it work?
+A PDF file in Persian is provided. An English description will soon be added.
+
+## Screenshots
+<img src="Pictures/Pic1.png" alt="Menu" width="400" height="300"/>
+<img src="Pictures/Pic2.png" alt="Menu" width="400" height="300"/>
