@@ -12,4 +12,4 @@ A PDF file in Persian is provided. An English description will soon be added.
 
 ## Screenshots
 <img src="Pictures/Pic1.png" alt="Menu" width="600" height="300"/>
-<img src="Pictures/Pic2.png" alt="Menu" width="600" height="300"/>
+<img src="Pictures/Pic2.png" alt="Plot" width="600" height="300"/>
