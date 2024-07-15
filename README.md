@@ -1,5 +1,5 @@
 # Electric Field Visualizer
-This program is intended as a project for EM course to give students a better understanding of electric fields and how charged particles are affected by them.
+This is a project for EM course to give students a better understanding of how charged particles are affected by electric fields.
 
 ## Prerequisite
 In order to run the code, make sure you have followings installed on your device:
